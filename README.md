@@ -7,7 +7,7 @@
 
 #### Connect with me!
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-
+¬
 
 ![My GitHub Stats:)](https://github-readme-stats.vercel.app/api?username=Isaaruwu&show_icons=true&theme=merko)
 
