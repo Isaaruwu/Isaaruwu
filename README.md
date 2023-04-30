@@ -4,6 +4,8 @@
   <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 - :books: I'm currently studying full-time @ Polytechnique Montréal in Software Engineering 
 - :computer: I'm still a beginner and I'm here to learn as much as I can
 - :revolving_hearts: Feel free to give me advice and feedback on my projects 
