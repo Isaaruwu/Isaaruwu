@@ -1,4 +1,7 @@
 ### Heyy 👋
+
+<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 - :books: I'm currently studying full-time @ Polytechnique Montréal in Software Engineering 
 - :computer: I'm still a beginner and I'm here to learn as much as I can
 - :revolving_hearts: Feel free to give me advice and feedback on my projects 
