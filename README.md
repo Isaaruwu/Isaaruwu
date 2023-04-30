@@ -1,4 +1,5 @@
-### Heyy 👋
+<h1 align="center"><b>Hi , I'm Ismail! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <div align="center">
   <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 </div>
