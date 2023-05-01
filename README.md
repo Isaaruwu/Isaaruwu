@@ -2,19 +2,23 @@
 
 <div align="center">
  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+ <br>
+ <a href="https://www.linkedin.com/in/ismail-aarab-25b2061b0/" target="_blank">
+ <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+ </a>
 </div>
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/ismail-aarab-25b2061b0/))
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ismailaarabb@gmail.com)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## About me :)
 - :books: I'm currently studying full-time @ Polytechnique Montréal in Software Engineering 
-- :computer: I'm still a beginner and I'm here to learn as much as I can
+- :computer: Learning everyday :)
 - :revolving_hearts: Feel free to give me advice and feedback on my projects 
 - :star2: My goal is to start contributing to Open Source Projects
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<br>
 
-![My GitHub Stats:)](https://github-readme-stats.vercel.app/api?username=Isaaruwu&show_icons=true&theme=merko)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-isaaruwu&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaaruwu&layout=compact&theme=dark&bg_color=0A0A0A" alt="Isaaruwu Top Languages"/>
+<br>
+ <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaaruwu&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Isaaruwu Github Stats">
+</div>
