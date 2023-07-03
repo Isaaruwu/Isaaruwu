@@ -17,7 +17,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaaruwu&layout=compact&theme=dark&bg_color=0A0A0A" alt="Isaaruwu Top Languages"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaaruwu&show_icons=true&theme=dark&bg_color=0A0A0A&locale=en"/>
 <br>
  <br>
 </div>
