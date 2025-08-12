@@ -16,10 +16,10 @@
 ---
 
 ## 🔨 Featured Projects
-- 📈 **[Order Book Visualizer & Simulator](#)** – C++ matching engine with multiple algorithms (price-time, pro-rata) and performance metrics  
-- 📊 **[Portfolio Manager](#)** – Flask + SQLite app for investment tracking and optimization  
-- 🤖 **[Plant-e](#)** – Plant-e is a self-watering plant system built using the Arduino MKR Wifi-1010
-- 🧠 **[ML Hackathon Projects](#)** – First place at CodeML 2021, building intelligent ML-driven solutions  
+- 📈 **[Order Book Visualizer & Simulator](https://github.com/Isaaruwu/OrderMatchingEngine)** – C++ matching engine with multiple algorithms (price-time, pro-rata) and performance metrics  
+- 📊 **[Portfolio Manager](https://github.com/Isaaruwu/PortfolioManager)** – Flask + SQLite app for investment tracking and optimization  
+- 🤖 **[Plant-e](https://github.com/Isaaruwu/Plant-e)** – Plant-e is a self-watering plant system built using the Arduino MKR Wifi-1010
+- 🧠 **[ML Hackathon Projects](https://github.com/Isaaruwu/CodeML2021)** – First place at CodeML 2021, building intelligent ML-driven solutions  
 
 ---
 
