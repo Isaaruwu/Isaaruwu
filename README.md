@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ismail! 👋</h1>
-<p align="center"><b>Software Engineer | Quantitative Finance Enthusiast | Data & AI</b></p>
+<p align="center"><b> SWE | Finance Enthusiast | Data & AI</b></p>
 
 <div align="center">
  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="180">
@@ -8,10 +8,9 @@
 ---
 
 ## 📌 About Me
-- 🎓 Ms. in ML @ MILA 
-- 🌏 Currently on exchange at **Korea University**, studying **Data Science & AI**  
-- ⚡ Passionate about **quantitative finance**, **high-performance systems**, and **clean architecture**  
-- 🎯 Goal: Build impactful financial systems and contribute to cutting-edge open-source projects  
+- 🎓 Ms. in AI @ MILA 
+- 🌏 SWE @ Morgan Stanley  
+- ⚡ Passionate about **Finance / AI / ML**  
 
 ---
 
@@ -19,7 +18,7 @@
 - 📈 **[Order Book Visualizer & Simulator](https://github.com/Isaaruwu/OrderMatchingEngine)** – C++ matching engine with multiple algorithms (price-time, pro-rata) and performance metrics  
 - 📊 **[Portfolio Manager](https://github.com/Isaaruwu/PortfolioManager)** – Flask + SQLite app for investment tracking and optimization  
 - 🤖 **[Plant-e](https://github.com/Isaaruwu/Plant-e)** – Plant-e is a self-watering plant system built using the Arduino MKR Wifi-1010
-- 🧠 **[ML Hackathon Projects](https://github.com/Isaaruwu/CodeML2021)** – First place at CodeML 2021, building intelligent ML-driven solutions  
+- 🧠 **[ML Hackathon Projects](https://github.com/Isaaruwu/CodeML2021)** – First place at CodeML, building intelligent ML-driven solutions  
 
 ---
 
